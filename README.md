@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Papa Malick</h1>
-<h4 align="center"Experienced in IT with a strong focus on CI/CD pipeline automation, containerized environments (Docker, Kubernetes), and Infrastructure as Code (Terraform, Ansible). I actively drive continuous improvement in development and deployment processes, delivering robust, business-aligned solutions through close collaboration with dev and ops teams. Motivated by tech challenges and digital transformation, I’m eager to contribute to innovative, high-impact projects.</h4>
+<h4 align="center">Experienced in IT with a strong focus on CI/CD pipeline automation, containerized environments (Docker, Kubernetes), and Infrastructure as Code (Terraform, Ansible). I actively drive continuous improvement in development and deployment processes, delivering robust, business-aligned solutions through close collaboration with dev and ops teams. Motivated by tech challenges and digital transformation, I’m eager to contribute to innovative, high-impact projects.</h4>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papemaodo87&label=Profile%20views&color=0e75b6&style=flat" alt="papemaodo87" /> </p>
 
