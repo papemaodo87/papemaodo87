@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/papa-malick-diarra-902825206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/papa-malick-diarra-902825206/" height="30" width="40" /></a>
 </p>
-#### Top Technologies
+<!-- #### Top Technologies -->
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
